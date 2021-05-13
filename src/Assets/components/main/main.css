@@ -1,0 +1,57 @@
+
+main{
+    background-color: aliceblue;
+    grid-area: main;
+    overflow-y: auto;
+    margin-top: 15px;
+    margin-left: -50px;
+}
+
+.main{
+    margin-top: 20px;
+    margin-left: 1024px;
+}
+
+.score{
+    margin-left: 30px;
+    margin-top: 10px;
+    justify-content:space-around;
+}
+
+.segments{
+    display: inline-flex;
+}
+
+.chart{
+    margin-left: 30px;
+    margin-top: 15px;
+
+}
+
+.text{
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.calendar{
+    margin-left: 800px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+
+}
+
+.attribute{
+    margin-bottom: -20px;
+}
+
+
+
+
+
+
+  
+
+
+
+
